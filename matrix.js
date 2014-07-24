@@ -77,7 +77,7 @@
         }
         
         function shuffle(input){
-            for(var i = input.length; i; ){
+            for(var i = input.length-1; i; ){
                 var j = parseInt(Math.random() * i);
                 var x = input[--i];
                 input[i] = input[j];
