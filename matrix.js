@@ -1,4 +1,6 @@
-    function Load(rows,cols){
+    new Game(4,4);
+	
+	function Load(rows,cols){
             $("#div1").empty();
             Game(rows,cols);
     }
