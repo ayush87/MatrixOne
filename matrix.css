@@ -32,7 +32,7 @@ body > div{
     position: relative;
     top:50px;
     height: 50px;
-    width:60%;
+    width:50%;
 }
     
 .ch1{
@@ -41,7 +41,7 @@ body > div{
     float: left;
     text-align: center;
     height: 50px;
-    width:33%;
+    width:25%;
     cursor: pointer;
     border-radius: 3px;
 }
